@@ -76,7 +76,7 @@ class _MyApplicationState extends State<_MyApplication> {
                 ],
               )
             : Center(
-                child: Text('You did it'),
+                child: Text('You did it.'),
               ),
       ),
     );
